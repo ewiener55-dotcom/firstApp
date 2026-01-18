@@ -1,2 +1,0 @@
-# firstApp
-rateplace
